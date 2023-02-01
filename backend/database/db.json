@@ -1,0 +1,14 @@
+{
+    "users":[
+        {
+        "id": 1,
+        "name": "Fabio José Pegoraro",
+        "email": "fabio@email.com"
+        },
+        {
+        "id": 2,
+        "name": "Marilia Maragno Pegoraro",
+        "email": "marilia@email.com"
+        }
+    ]
+}
